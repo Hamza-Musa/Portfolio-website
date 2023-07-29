@@ -2093,7 +2093,7 @@ input, select, textarea {
 
 #iframe-container {
 	-webkit-filter: blur(3px);
-		filter: blur(3px);
+		filter: blur(1px);
 }
 
 
