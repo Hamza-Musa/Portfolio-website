@@ -2096,7 +2096,11 @@ input, select, textarea {
 		filter: blur(1px);
 }
 
-
+/* icons */
+.iconz {
+	font-size: 52px;
+	/* Adjust the size as needed */
+}
 
 
 
