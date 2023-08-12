@@ -284,6 +284,8 @@ input, select, textarea {
 		text-align: right;
 	}
 
+
+
 /* Row */
 
 	.row {
@@ -2102,6 +2104,42 @@ input, select, textarea {
 	/* Adjust the size as needed */
 }
 
+/* Section Two */
+
+#two {
+	text-align: center;
+	padding: 20px;
+}
+
+
+.aframe {
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	height: 600px;
+	text-align: center;
+
+}
+
+.jsgames {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	text-align: center;
+	justify-content: start;
+	border: 2px solid blue;
+	
+	
+
+}
+
+.weather-app {
+	margin-left: 100px;
+	flex: 1;
+	border: 2px solid blue;
+
+}
+
 
 
 
@@ -2318,6 +2356,8 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		display: flex;
+		justify-content: center;
 	}
 
 		ul.icons li {
