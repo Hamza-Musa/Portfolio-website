@@ -72,6 +72,29 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* Projects Section */
+iframe {
+	border: 3px solid black;
+}
+
+
+
+.jspro {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+
+}
+
+.jspro h3,
+.jspro h4 {
+	display: block;
+	/* Reset display property */
+	margin: 0;
+	/* Reset margin, if needed */
+	/* Any other styles to reset or adjust headings */
+}
+
 /* Basic */
 
 	@-ms-viewport {
