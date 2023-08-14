@@ -95,6 +95,11 @@ iframe {
 	/* Any other styles to reset or adjust headings */
 }
 
+/* Puruple section - Skills and Services */
+.freelance {
+	text-align: left;
+}
+
 /* Basic */
 
 	@-ms-viewport {
