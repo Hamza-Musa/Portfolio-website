@@ -2288,6 +2288,9 @@ iframe {
 			-ms-flex-direction: column;
 			flex-direction: column;
 			margin-left: 0;
+			
+			justify-content: center;
+			
 		}
 
 			ul.actions.stacked li {
