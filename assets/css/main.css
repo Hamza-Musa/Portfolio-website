@@ -72,30 +72,66 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* icons */
+.iconz {
+	font-size: 52px;
+	/* Adjust the size as needed */
+}
+
+
+/* Section one */
+
+#one p{
+	color: white;
+}
+
+#one span {
+	color: white;
+}
+
+
+/* Section Two */
+
+#two {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+
+
+.aframe {
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	height: 600px;
+	text-align: center;
+
+}
+
 /* Projects Section */
+
+.section {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+
+
 iframe {
 	border: 3px solid black;
 }
 
 
 
-.jspro {
+
+.spotlight.content{
 	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
-
 }
 
-.jspro h3,
-.jspro h4 {
-	display: block;
-	/* Reset display property */
-	margin: 0;
-	/* Reset margin, if needed */
-	/* Any other styles to reset or adjust headings */
-}
 
-/* Puruple section - Skills and Services */
+/* Purple section - Skills and Services */
 .freelance {
 	text-align: left;
 }
@@ -2126,47 +2162,6 @@ iframe {
 		filter: blur(1px);
 }
 
-/* icons */
-.iconz {
-	font-size: 52px;
-	/* Adjust the size as needed */
-}
-
-/* Section Two */
-
-#two {
-	text-align: center;
-	padding: 20px;
-}
-
-
-.aframe {
-	display: flex;
-	justify-content: space-evenly;
-	flex-wrap: wrap;
-	height: 600px;
-	text-align: center;
-
-}
-
-.jsgames {
-	display: flex;
-	flex-wrap: wrap;
-	flex-direction: row;
-	text-align: center;
-	justify-content: start;
-	border: 2px solid blue;
-	
-	
-
-}
-
-.weather-app {
-	margin-left: 100px;
-	flex: 1;
-	border: 2px solid blue;
-
-}
 
 
 
