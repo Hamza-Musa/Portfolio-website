@@ -111,6 +111,33 @@ input, select, textarea {
 
 /* Projects Section */
 
+/* .static {
+	position: absolute;
+	background: white;
+}
+.static:hover {
+	opacity: 0;
+	transition-delay: 1s;
+} */
+
+.play-on-hover {
+	width: 40vw;
+	height: 50vh;
+	background-image: url('/Users/hamzamusa/Documents/Portfolio-website/images/weatherappscreenshotstatic.png'); 
+	background-size: cover;
+	/* cursor: pointer; */
+	border-radius: 10px;
+	box-shadow: 0 10px 20px -5px #ccc;
+}
+
+.play-on-hover:hover {
+	background-image: url('/Users/hamzamusa/Documents/Portfolio-website/images/WeatherApp.gif');
+	
+	/* cursor: pointer; */
+}
+
+
+
 .section {
 	display: flex;
 	flex-wrap: wrap;
