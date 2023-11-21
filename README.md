@@ -17,8 +17,6 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 ##  How It's Made:
 
-# HELLOO
-
 **Tech used:** HTML, CSS, JavaScript, Framework of choice
 
 Here's where you can go to town on how you built this thing. Write as much as you can here, it's fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's fine. This is where you can really show off your passion and make up for that tenfold.
@@ -44,7 +42,7 @@ Take a look at these couple of examples that I have in my portfolio:
 
 ...............................................................................................................................................................................................................
 
-Extra Credits:
+###### Extra Credits:
 Spectral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
