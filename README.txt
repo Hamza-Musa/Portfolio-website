@@ -1,3 +1,13 @@
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+
+
+
 <h1> My Awesome Project</h1>
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front-end devs so we can actually see our work!).
 
