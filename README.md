@@ -40,12 +40,9 @@ Take a look at these couple of examples that I have in my portfolio:
 **Patch Panel:** https://github.com/alecortega/patch-panel
 
 
-...............................................................................................................................................................................................................
+...................................................................................................................................................................
 
-###### Extra Credits:
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+###### Extra Credits: Spectral by HTML5 UP html5up.net | @ajlkn Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
 A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
@@ -75,8 +72,6 @@ you can use for pretty much whatever.
 AJ
 aj@lkn.io | @ajlkn
 
-
-Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
