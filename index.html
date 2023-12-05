@@ -85,12 +85,7 @@
 					<li><i class="fa-sharp fa-solid fa-vr-cardboard iconz"></i> <i class="fa-solid fa-cube iconz"></i>
 					</li>
 					<li><i class="fa-brands fa-python iconz"></i> </li>
-	
-
-
 				</ul>
-		
-
 			</div>
 		</section>
 
@@ -101,7 +96,7 @@
 			<section class="section" id="sectionTwo">
 				<div class="sectionProjects">
 					<h3>Davies Burgers</h3>
-					<iframe src="xxhmu54.github.io/Davies-Burgers/" frameborder="0" height="500"
+					<iframe src="https://xxhmu54.github.io/Davies-Burgers/" frameborder="0" height="500"
 						width="500"></iframe>
 					<h3>Holiday blog</h3>
 					<iframe src="https://xxhmu54.github.io/MoroccoBlog/" frameborder="0" height="500"
@@ -113,7 +108,7 @@
 						width="500"></iframe>
 
 					<h3>Spectral Salon</h3>
-					<iframe src="https://spectralsalon.netlify.app/" frameborder="0" height="500"
+					<iframe id="myFrame" src="https://spectralsalon.netlify.app/" frameborder="0" height="500"
 						width="500"></iframe>
 				</div>
 			</section>
@@ -192,9 +187,6 @@
 			</div>
 		</section>
 
-
-
-
 		<!-- CTA -->
 		<section id="cta" class="wrapper style4">
 			<div class="inner">
@@ -260,6 +252,11 @@
 	</div>
 
 	<!-- Scripts -->
+	<script>
+		document.getElementById("myFrame").addEventListener("click", function () {
+			window.open("https://spectralsalon.netlify.app/", "_blank");
+		});
+	</script>
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/jquery.scrollex.min.js"></script>
 	<script src="assets/js/jquery.scrolly.min.js"></script>
