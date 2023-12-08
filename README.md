@@ -1,15 +1,6 @@
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-
-
-
 
 # My Portfolio Website 
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front-end devs so we can actually see our work!).
+Write a short sentence or two about this project and what it does. Here is a link to the website <a href="https://xxhmu54.github.io/Portfolio-website/">link</a> a screenshot (we're front-end devs so we can actually see our work!).
 
 **Link to project:** (https://xxhmu54.github.io/Portfolio-website/)
 
