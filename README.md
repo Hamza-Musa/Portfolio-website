@@ -8,8 +8,6 @@ Write a short sentence or two about this project and what it does. Here is a lin
 <br>
 <img width="1280" alt="Screenshot 2023-10-31 at 14 09 48" src="https://github.com/XxHMu54/Portfolio-website/assets/98530123/3363a4f9-7cdc-4674-b238-e749b8007240">
 <br>
-<img width="1280" alt="Screenshot 2023-10-31 at 14 09 31" src="https://github.com/XxHMu54/Portfolio-website/assets/98530123/27666e15-552c-4e46-bf1c-8bdfc5576225">
-<br>
 
 
 
