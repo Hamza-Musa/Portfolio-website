@@ -26,24 +26,24 @@ Separation of Concerns. Realized how much easier it is to add css animations tha
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Demo-Day">Travelara.org</a>
+<a target="_blank" href=>""</a>
         <br />
-      <a target="_blank" href="https://github.com/CharlesCreativeContent/Demo-Day">
-            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%"  alt="Travelara.org"/>
+      <a target="_blank" href="">
+            <img src="" width="100%"  alt="project1"/>
         </a>
     </td>
-    <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">Rigley2-"FlappyBug"</a>
-      <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" width="100%" alt="Rigley2-'FlappyBug'"/>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href=>""</a>
+        <br />
+      <a target="_blank" href="">
+            <img src="" width="100%"  alt="project1"/>
         </a>
     </td>
-    <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">Matching Card Game</a>
+     <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href=>""</a>
         <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Matching Card Game"/>
+      <a target="_blank" href="">
+            <img src="" width="100%"  alt="project1"/>
         </a>
     </td>
   </tr>
