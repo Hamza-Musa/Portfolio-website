@@ -1,21 +1,26 @@
 # Portfolio : <a target="_blank" href="https://xxhmu54.github.io/Portfolio-website/">Visit Here</a>
 
+**Link to project:** (https://xxhmu54.github.io/Portfolio-website/)
+
+<img width="1280" alt="Screenshot 2023-10-31 at 14 09 58" src="https://github.com/XxHMu54/Portfolio-website/assets/98530123/1f916a51-f07e-42c8-9a01-8049baa0220c">
+<br>
+<img width="1280" alt="Screenshot 2023-10-31 at 14 09 48" src="https://github.com/XxHMu54/Portfolio-website/assets/98530123/3363a4f9-7cdc-4674-b238-e749b8007240">
+<br>
 
 
-### Portfolio Site including links to my projects and ways to get in contact with me.
+### Portfolio Site including links to my projects and ways to contact me.
 
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
 
-My learning was focused on making a simple UI and a smooth UX, and have a seasonal animation for dark-mode. 
 
 ## Optimizations
 
-When I improve this project, I would start by updating the spring and summer animation of rain and fireflies. Currently have fall and winter finished just need to add the other too into the Date checker. Would also like to add some javascript to add gifs to front page.
+When I improve this project, I will start by updating the spring and summer animation of rain and fireflies. Currently have fall and winter finished just need to add the other too into the Date checker. Would also like to add some javascript to add gifs to the front page. (You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something and then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as a reference when studying for technical interviews!)
 
 ## Lessons Learned:
 
-Separation of Concerns. Realized how much easier it is to add css animations than to add custom javascript to change hover interactions
+Separation of Concerns. Realized how much easier it is to add css animations than to add custom javascript to change hover interactions. (No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.)
 
 
 
@@ -49,41 +54,6 @@ Separation of Concerns. Realized how much easier it is to add css animations tha
   </tr>
 </table>
 
-# My Portfolio Website 
-Write a short sentence or two about this project and what it does. Here is a link to the website <a href="https://xxhmu54.github.io/Portfolio-website/">link</a> a screenshot (we're front-end devs so we can actually see our work!).
-
-**Link to project:** (https://xxhmu54.github.io/Portfolio-website/)
-
-<img width="1280" alt="Screenshot 2023-10-31 at 14 09 58" src="https://github.com/XxHMu54/Portfolio-website/assets/98530123/1f916a51-f07e-42c8-9a01-8049baa0220c">
-<br>
-<img width="1280" alt="Screenshot 2023-10-31 at 14 09 48" src="https://github.com/XxHMu54/Portfolio-website/assets/98530123/3363a4f9-7cdc-4674-b238-e749b8007240">
-<br>
-
-
-
-##  How It's Made:
-
-**Tech used:** HTML, CSS, JavaScript, 
-
-Combination of these languages
-
-## Optimizations
-*(optional)*
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as a reference when studying for technical interviews!
-
-## Lessons Learned:
-
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
-## Examples:
-Take a look at these couple of examples that I have in my portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
 
 
 <hr>
