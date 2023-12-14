@@ -102,16 +102,6 @@ input, select, textarea {
 }
 
 
-.aframe {
-	display: flex;
-	justify-content: space-evenly;
-	flex-wrap: wrap;
-	height: 600px;
-	text-align: center;
-
-}
-
-
 
 #daviesBurgersIframe {
 	background: white;
@@ -177,9 +167,6 @@ input, select, textarea {
 iframe {
 	border: 3px solid black;
 }
-
-
-
 
 
 .spotlight.content{

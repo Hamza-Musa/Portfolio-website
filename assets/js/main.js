@@ -4,8 +4,17 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-document.querySelectorAll(iframe).addEventListener("click", function () {
-  window.open("https://spectralsalon.netlify.app/", "_blank");
+// Select all iframe elements
+const iframes = document.querySelectorAll("iframe");
+
+// Iterate over each iframe element and add event listener
+iframes.forEach(function (iframe) {
+  iframe.addEventListener("click", function () {
+    // Get the source URL of the clicked iframe
+    const src = iframe.getAttribute("src");
+    // Open the source URL in a new tab
+    window.open(src, "_blank");
+  });
 });
 
 (function ($) {
