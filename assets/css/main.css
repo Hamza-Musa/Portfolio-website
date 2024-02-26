@@ -153,6 +153,7 @@ iframe {
 
 
 
+
 .spotlight.content{
 	display: flex;
 }
@@ -2190,7 +2191,12 @@ iframe {
 }
 
 
-
+.sectionProjects h3{
+	padding-top: 50px;
+	padding-bottom: 5px;
+	/* margin-bottom: 150px; */
+	/* border: 5px solid #00f0ff; */
+}
 
 
 /* Image */
@@ -2892,6 +2898,43 @@ iframe {
 				padding: 3em 2em 1em 2em ;
 			}
 
+		}
+		@media screen and (max-width: 768px) {
+			#banner .inner p {
+				letter-spacing: 0.150em;
+			}
+	
+			#two iframe {
+				width: 600px;
+			}
+	
+			.inner p {
+				text-align: center;
+			}
+		}
+
+			@media  screen and (max-width: 390px) {
+			#banner .inner p{
+					letter-spacing: 0.150em;
+				}
+			#two iframe{
+				width: 300px;
+			}
+			.inner p {
+				text-align: center;
+			}
+		}
+
+		@media  screen and (max-width: 390px) {
+			#banner .inner p{
+					letter-spacing: 0.150em;
+				}
+			#two iframe{
+				width: 300px;
+			}
+			.inner p {
+				text-align: center;
+			}
 		}
 
 /* Wrapper */
