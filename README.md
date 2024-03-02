@@ -40,14 +40,14 @@ Separation of Concerns. Realized how much easier it is to add css animations tha
     <td width="33.3%"  style="align:center;" valign="top">
 <a target="_blank" href=>""</a>
         <br />
-      <a target="_blank" href="">
+      <a target="_blank" href="https://hamza-musa.github.io/Davies-Burgers/">
             <img src="" width="100%"  alt="project1"/>
         </a>
     </td>
      <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href=>""</a>
+<a target="_blank" href=>"https://hamza-musa.github.io/Davies-Burgers/"</a>
         <br />
-      <a target="_blank" href="">
+      <a target="_blank" href="https://hamza-musa.github.io/Davies-Burgers/">
             <img src="" width="100%"  alt="project1"/>
         </a>
     </td>
