@@ -1,6 +1,6 @@
-# Portfolio : <a target="_blank" href="https://xxhmu54.github.io/Portfolio-website/">Visit Here</a>
+# Portfolio : <a target="_blank" href="https://hamza-musa.github.io/Portfolio-website//">Visit Here</a>
 
-**Link to project:** (https://xxhmu54.github.io/Portfolio-website/)
+**Link to project:** (https://hamza-musa.github.io/Portfolio-website/)
 
 <img width="1280" alt="Screenshot 2023-10-31 at 14 09 58" src="https://github.com/XxHMu54/Portfolio-website/assets/98530123/1f916a51-f07e-42c8-9a01-8049baa0220c">
 <br>
