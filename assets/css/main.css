@@ -1,6 +1,13 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 
+@font-face {
+    font-family: 'CroissantOne';
+    src: url('https://hamza-musa.github.io/MoroccoBlog/assets/styles/fonts/CroissantOne.Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /*
 	Spectral by HTML5 UP
 	html5up.net | @ajlkn
