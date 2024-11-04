@@ -84,6 +84,15 @@ input, select, textarea {
 
 /* Section one */
 
+/* Style for your main header */
+h1, h2, h3,.button {
+	color: white;
+	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.no-outline {
+	text-shadow: none; /* Remove outline for buttons with this class */
+}
 #one p{
 	color: white;
 	text-align: start;
@@ -98,59 +107,114 @@ input, select, textarea {
 /* Section Two */
 
 #two {
+	display: flex;
+	align-items: flex-start;;
+	flex-wrap: wrap;
+	max-width: 2400px;
+	width: 100%; /* This allows the section to shrink below 1200px on smaller screens */
+	/* border: 5px dotted blue; */
+	align-items: center; /* Center content horizontally */
+
+}
+
+#two h2{
 	text-align: center;
 	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-bottom: 20px; /* Adjusted padding */
+	width: 100%; /* Ensure it takes the full width */
+	margin: 0; /* Reset margin to avoid any unwanted spacing */
+
 	
 }
 
 
-
-#daviesBurgersIframe {
-	background: white;
-	/* Set a background image */
-	background-size: cover;
-	/* Adjust background image size */
+#two .flex-items {
+	width: 100%; /* Make sure flex items start on a new line */
 }
+  
+  .rapper{
+	width: 50%;
+	margin-bottom: 20px; /* Add margin for spacing between projects */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/* border: #00ffcc 5px solid; */
+	
+  }
+  
+  .image {
+	/* width: 100%; When we add more projects*/
+	width: 500px;
+	height: 100%;
+	position: relative;
+  }
+  
+  img {
+	width: 100%;
+	display: block;
+	margin: auto;
+	border: black 5px solid;
 
-#daviesBurgersIframe iframe {
-	filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
-	/* Apply drop shadow */
-}
-
-#daviesBurgersIframe::before {
-	content: '';
-	/* Create pseudo-element */
-	position: absolute;
-	top: 0;
-	left: 0;
+  }
+  
+  .content{
 	width: 100%;
 	height: 100%;
-	background-color: rgba(255, 255, 255, 0.5);
-	/* Semi-transparent white */
+	top:0;
+	left:0;
+	position: absolute;
+	background: rgba(0,0,0,0.6);
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	opacity:0;
+	transition:0.0s;
+	padding: 20px
+  }
+  
+  .content:hover{
+	opacity:1;
+  }
+  
+  .content h3 {
+	font-size: 40px;
+	color: #ffe100 !important;
+	margin-bottom: 15px;
+  }
+  
+  .content p {
+	font-size: 14px;
+	color: #fff;
+  }
+  
+  .content > * {
+	transform: translateY(25px);
+	transition: transform 0.6s;
+  }
+  
+  .content:hover > * {
+	transform: translateY(0px);
+  }
+
+  /* Centering the additional projects section */
+  .projects-links {
+	display: flex; /* Use flexbox for centering */
+	flex-direction: column; /* Stack links vertically */
+	align-items: center; /* Center items horizontally */
+	text-align: center; /* Center text inside links */
+	margin: 40px 0; /* Add spacing above and below */
+	width: 100%; /* Ensure it takes the full width of the parent */
+}
+
+.projects-links a {
+	margin: 5px 0; /* Add some vertical spacing between links */
 }
 
 
 
-.section {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-}
 
-
-
-iframe {
-	border: 3px solid black;
-}
-
-
-.spotlight.content{
-	display: flex;
-}
-
-
-/* Purple section - Skills and Services */
+/* Section Three Purple section - Skills and Services */
 .freelance {
 	text-align: left;
 }
